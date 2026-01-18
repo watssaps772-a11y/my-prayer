@@ -1,0 +1,52 @@
+{
+  "background_color": "#ffffff",
+  "description": " Project Idea: My Prayer – Mini Prayer AppGeneral DescriptionA lightweight mobile application that helps Muslims pray on time and correctly, with a ",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "صلاة اولا",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "صلاتي",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://miaoda-op-sourcecode.s3.us-west-2.amazonaws.com/source_code/projects/conv-90wrv9iqd2io_1768766180776/favicon.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 96,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://miaoda-screenshot-img.s3cdn.medo.dev/preview_screen/app-90wrv9iqd2ip/app-90wrv9iqd2ip_1768766192918_bd57.png",
+      "type": "image/png",
+      "sizes": "800x600",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 800,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://app-90wrv9iqd2ip.appmedo.com/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
