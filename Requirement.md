@@ -3,7 +3,7 @@
 ## 1. Application Overview
 
 ### 1.1 Application Name
-My Prayer\n
+My salati
 ### 1.2 Application Description
 A lightweight mobile application designed to help Muslims pray on time and correctly, featuring a simple and user-friendly interface. The app provides essential prayer tools including prayer times, Qibla direction, prayer guides, and after-prayer supplications.
 
@@ -24,7 +24,7 @@ Mobile Web Application
 
 ### 2.3 How to Pray
 - Step-by-step guide for performing each prayer
-- Number of rak'ahs for every prayer (Fajr: 2, Dhuhr: 4, Asr: 4, Maghrib: 3, Isha: 4)\n- Prayer texts and recitations:\n  - Rukūʿ (bowing) supplications
+- Number of rak'ahs for every prayer (الفجر: 2, الظهر: 4, العصر : 4, المغرب : 3, العشاء: 4)\n- Prayer texts and recitations:\n  - Rukūʿ (bowing) supplications
   - Sujūd (prostration) supplications
   - Tashahhud (sitting) recitations
 - Clear instructions for each prayer position
